@@ -1,0 +1,5 @@
+#include<stdio.h>
+main()
+{
+	int i,hani_hai;
+}

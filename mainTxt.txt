@@ -1,0 +1,7 @@
+/*simple program*/
+#include<stdio.h>
+int main()
+{
+	printf("hai");
+	int a=b/(*k);
+}dfghl;kjh
